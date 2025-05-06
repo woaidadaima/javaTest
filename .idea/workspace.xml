@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73e43548-7eaf-4f3b-82a1-af3a569502d8" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2vX8e6LoL70EBOqWsUk9fZCnIWN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="HeroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.HeroTest" />
+      <module name="day09-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2.StudentTest" />
+      <module name="day09-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.UserTest" />
+      <module name="day08-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="day07-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="day07-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.HeroTest" />
+        <item itemvalue="Application.UserTest" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\LJB\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73e43548-7eaf-4f3b-82a1-af3a569502d8" name="默认更改列表" comment="" />
+      <created>1744280150888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744280150888</updated>
+      <workItem from="1744280153886" duration="8534000" />
+      <workItem from="1744632127674" duration="2646000" />
+      <workItem from="1744634799130" duration="60000" />
+      <workItem from="1744634871287" duration="1980000" />
+      <workItem from="1744714938956" duration="6482000" />
+      <workItem from="1746537376911" duration="1622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="860" y="355" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1744280567428">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="860" y="355" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1104@0.0.2048.1104" timestamp="1744280567428" />
+    <state x="830" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1744716915789">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="830" y="268" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1104@0.0.2048.1104" timestamp="1744716915789" />
+    <state x="617" y="211" key="#项目结构" timestamp="1744642426213">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="617" y="211" key="#项目结构/0.0.2048.1104@0.0.2048.1104" timestamp="1744642426213" />
+    <state x="888" y="443" width="272" height="290" key="Github.ShareDialog" timestamp="1746538981673">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="888" y="443" width="272" height="290" key="Github.ShareDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746538981673" />
+    <state width="2049" height="310" key="GridCell.Tab.0.bottom" timestamp="1744721994730">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2049" height="310" key="GridCell.Tab.0.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1744721994730" />
+    <state width="2049" height="310" key="GridCell.Tab.0.center" timestamp="1744721994730">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2049" height="310" key="GridCell.Tab.0.center/0.0.2048.1104@0.0.2048.1104" timestamp="1744721994730" />
+    <state width="2049" height="310" key="GridCell.Tab.0.left" timestamp="1744721994730">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2049" height="310" key="GridCell.Tab.0.left/0.0.2048.1104@0.0.2048.1104" timestamp="1744721994730" />
+    <state width="2049" height="310" key="GridCell.Tab.0.right" timestamp="1744721994730">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2049" height="310" key="GridCell.Tab.0.right/0.0.2048.1104@0.0.2048.1104" timestamp="1744721994730" />
+    <state x="526" y="194" key="SettingsEditor" timestamp="1746537694951">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="526" y="194" key="SettingsEditor/0.0.2048.1104@0.0.2048.1104" timestamp="1746537694951" />
+    <state x="93" y="93" width="1862" height="918" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1746538999952">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="93" y="93" width="1862" height="918" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746538999952" />
+    <state x="723" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1746537378265">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="723" y="376" key="com.intellij.ide.util.TipDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746537378265" />
+    <state x="651" y="102" width="745" height="900" key="find.popup" timestamp="1744642431400">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="651" y="102" width="745" height="900" key="find.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1744642431400" />
+    <state x="434" y="162" key="new project wizard" timestamp="1744642415496">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="434" y="162" key="new project wizard/0.0.2048.1104@0.0.2048.1104" timestamp="1744642415496" />
+    <state x="681" y="257" key="run.anything.popup" timestamp="1744283749204">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="681" y="257" key="run.anything.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1744283749204" />
+    <state x="687" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1746537682180">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="687" y="241" width="672" height="678" key="search.everywhere.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1746537682180" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day07-code/src/test1.java</url>
+          <line>57</line>
+          <properties class="test1" method="generateNum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day09-code/src/test2/StudentTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
