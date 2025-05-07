@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e43548-7eaf-4f3b-82a1-af3a569502d8" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-code-test/game-code-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-code-test/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-code-test/src/com/itheima/ui/GameJframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-code-test/src/com/itheima/ui/LoginJframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-code-test/src/com/itheima/ui/RegistJframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-code-test/src/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +49,7 @@
       <recent name="D:\test project\javaSE\game-code-test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="game-code-test" />
@@ -143,7 +134,8 @@
       <workItem from="1744634799130" duration="60000" />
       <workItem from="1744634871287" duration="1980000" />
       <workItem from="1744714938956" duration="6482000" />
-      <workItem from="1746537376911" duration="11727000" />
+      <workItem from="1746537376911" duration="12063000" />
+      <workItem from="1746626770703" duration="622000" />
     </task>
     <servers />
   </component>
@@ -171,22 +163,22 @@
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
     <state x="888" y="443" width="272" height="290" key="Github.ShareDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746538981673" />
-    <state width="2049" height="310" key="GridCell.Tab.0.bottom" timestamp="1746549940399">
+    <state width="2049" height="310" key="GridCell.Tab.0.bottom" timestamp="1746627391948">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2049" height="310" key="GridCell.Tab.0.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1746549940399" />
-    <state width="2049" height="310" key="GridCell.Tab.0.center" timestamp="1746549940399">
+    <state width="2049" height="310" key="GridCell.Tab.0.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1746627391948" />
+    <state width="2049" height="310" key="GridCell.Tab.0.center" timestamp="1746627391948">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2049" height="310" key="GridCell.Tab.0.center/0.0.2048.1104@0.0.2048.1104" timestamp="1746549940399" />
-    <state width="2049" height="310" key="GridCell.Tab.0.left" timestamp="1746549940399">
+    <state width="2049" height="310" key="GridCell.Tab.0.center/0.0.2048.1104@0.0.2048.1104" timestamp="1746627391948" />
+    <state width="2049" height="310" key="GridCell.Tab.0.left" timestamp="1746627391948">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2049" height="310" key="GridCell.Tab.0.left/0.0.2048.1104@0.0.2048.1104" timestamp="1746549940399" />
-    <state width="2049" height="310" key="GridCell.Tab.0.right" timestamp="1746549940399">
+    <state width="2049" height="310" key="GridCell.Tab.0.left/0.0.2048.1104@0.0.2048.1104" timestamp="1746627391948" />
+    <state width="2049" height="310" key="GridCell.Tab.0.right" timestamp="1746627391948">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2049" height="310" key="GridCell.Tab.0.right/0.0.2048.1104@0.0.2048.1104" timestamp="1746549940399" />
+    <state width="2049" height="310" key="GridCell.Tab.0.right/0.0.2048.1104@0.0.2048.1104" timestamp="1746627391948" />
     <state x="526" y="194" key="SettingsEditor" timestamp="1746540349857">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
@@ -195,10 +187,10 @@
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
     <state x="93" y="93" width="1862" height="918" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746538999952" />
-    <state x="723" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1746537378265">
+    <state x="723" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1746627512914">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state x="723" y="376" key="com.intellij.ide.util.TipDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746537378265" />
+    <state x="723" y="376" key="com.intellij.ide.util.TipDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746627512914" />
     <state x="755" y="306" key="extract.method.dialog" timestamp="1746549660981">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
@@ -207,14 +199,18 @@
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
     <state x="651" y="102" width="745" height="900" key="find.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1744642431400" />
+    <state x="723" y="343" key="git4idea.merge.GitPullDialog" timestamp="1746627539163">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="723" y="343" key="git4idea.merge.GitPullDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1746627539163" />
     <state x="434" y="162" key="new project wizard" timestamp="1746540031418">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
     <state x="434" y="162" key="new project wizard/0.0.2048.1104@0.0.2048.1104" timestamp="1746540031418" />
-    <state x="681" y="257" key="run.anything.popup" timestamp="1744283749204">
+    <state x="681" y="257" key="run.anything.popup" timestamp="1746627332466">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state x="681" y="257" key="run.anything.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1744283749204" />
+    <state x="681" y="257" key="run.anything.popup/0.0.2048.1104@0.0.2048.1104" timestamp="1746627332466" />
     <state x="687" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1746537682180">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
