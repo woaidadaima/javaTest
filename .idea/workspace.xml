@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73e43548-7eaf-4f3b-82a1-af3a569502d8" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-code-test/game-code-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/game-code-test/game-code-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-code-test/src/com/itheima/ui/GameJframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-code-test/src/com/itheima/ui/GameJframe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/GameJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/GameJframe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/LoginJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/LoginJframe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/RegistJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/RegistJframe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/test/Test.class" afterDir="false" />
-    </list>
+    <list default="true" id="73e43548-7eaf-4f3b-82a1-af3a569502d8" name="默认更改列表" comment="图片打乱顺序和居中" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +18,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="woaidadaima &lt;981596326@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "woaidadaima"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/woaidadaima/javaTest.git",
+    "accountId": "37d277da-49d7-49bf-960b-9b1262a7a7fb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2vX8e6LoL70EBOqWsUk9fZCnIWN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -52,7 +59,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true",
@@ -158,12 +165,37 @@
       <workItem from="1744634871287" duration="1980000" />
       <workItem from="1744714938956" duration="6482000" />
       <workItem from="1746537376911" duration="11727000" />
-      <workItem from="1746580928866" duration="21821000" />
+      <workItem from="1746580928866" duration="22073000" />
     </task>
+    <task id="LOCAL-00001" summary="图片打乱顺序和居中">
+      <option name="closed" value="true" />
+      <created>1746609235425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746609235425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基本功能完成" />
+    <MESSAGE value="图片打乱顺序和居中" />
+    <option name="LAST_COMMIT_MESSAGE" value="图片打乱顺序和居中" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
