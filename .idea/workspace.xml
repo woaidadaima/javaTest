@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73e43548-7eaf-4f3b-82a1-af3a569502d8" name="默认更改列表" comment="完善">
+    <list default="true" id="73e43548-7eaf-4f3b-82a1-af3a569502d8" name="默认更改列表" comment="代码提交">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-code/day10-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-code/day11-code/day11-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-code/day11-code/src/FileTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-code/src/com/itheima/mathtest/mathtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu/doudizhu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu/src/com/itheima/doudizhu1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu/src/com/itheima/doudizhu1/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu/src/com/itheima/doudizhu2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu/src/com/itheima/doudizhu2/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-code-test/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/game-code-test/src/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/GameJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/GameJframe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/LoginJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/LoginJframe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/RegistJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/com/itheima/ui/RegistJframe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game-code-test/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game-code-test/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day10-code/com/itheima/datetest1/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day10-code/com/itheima/datetest1/test5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +58,7 @@
 }</component>
   <component name="ProjectId" id="2vX8e6LoL70EBOqWsUk9fZCnIWN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="ProjectViewState">
@@ -61,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/projects/javaTest",
@@ -72,32 +80,61 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.folding",
     "vue.rearranger.settings.migration": "true",
     "应用程序.App.executor": "Run",
+    "应用程序.CollectTese3.executor": "Run",
+    "应用程序.CollectTest1.executor": "Run",
+    "应用程序.CollectTest2.executor": "Run",
+    "应用程序.CollectTest3.executor": "Run",
+    "应用程序.CollectTest4.executor": "Run",
+    "应用程序.Demo1.executor": "Run",
+    "应用程序.Demo2.executor": "Run",
+    "应用程序.Demo3.executor": "Run",
+    "应用程序.ExceptionDemo1.executor": "Run",
+    "应用程序.FileDemo1.executor": "Run",
+    "应用程序.FileTest1.executor": "Run",
+    "应用程序.HashMapTest (1).executor": "Run",
+    "应用程序.HashMapTest.executor": "Run",
+    "应用程序.HashMapTest2.executor": "Run",
+    "应用程序.QuickSort.executor": "Run",
+    "应用程序.StreamTest1.executor": "Run",
+    "应用程序.StreamTest2.executor": "Run",
+    "应用程序.StreamTest3.executor": "Run",
     "应用程序.Test.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.TreeMapTest1.executor": "Run",
+    "应用程序.TreeMapTest2.executor": "Run",
+    "应用程序.TreeSetTest.executor": "Run",
+    "应用程序.YinYong1.executor": "Run",
+    "应用程序.YinYong3.executor": "Run",
+    "应用程序.Yinyong2.executor": "Run",
+    "应用程序.com.itheima.doudizhu2.App.executor": "Run",
     "应用程序.test1.executor": "Run",
+    "应用程序.test1.test1.executor": "Run",
     "应用程序.test2.executor": "Run",
+    "应用程序.test2.test2.executor": "Run",
     "应用程序.test3.executor": "Run",
     "应用程序.test4.executor": "Run",
     "应用程序.test5.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\javaTest" />
+      <recent name="D:\test project\javaSE\game-code-test" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itheima.ui" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\test project\javaSE\game-code-test" />
-    </key>
   </component>
-  <component name="RunManager" selected="应用程序.test5">
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.datetest1.test1" />
-      <module name="day10-code" />
+  <component name="RunManager" selected="应用程序.FileTest1">
+    <configuration name="ExceptionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test11.ExceptionDemo1" />
+      <module name="mathtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.datetest1.*" />
+          <option name="PATTERN" value="test11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.datetest1.test2" />
-      <module name="day10-code" />
+    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test12.FileDemo1" />
+      <module name="mathtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.datetest1.*" />
+          <option name="PATTERN" value="test12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +155,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.datetest1.test3" />
-      <module name="day10-code" />
+    <configuration name="FileTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileTest1" />
+      <module name="day11-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YinYong3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test10.YinYong3" />
+      <module name="mathtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.datetest1.*" />
+          <option name="PATTERN" value="test10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,25 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.datetest1.test4" />
-      <module name="day10-code" />
+    <configuration name="Yinyong2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test10.Yinyong2" />
+      <module name="mathtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.datetest1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.datetest1.test5" />
-      <module name="day10-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.datetest1.*" />
+          <option name="PATTERN" value="test10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.test5" />
-        <item itemvalue="应用程序.test4" />
-        <item itemvalue="应用程序.test3" />
-        <item itemvalue="应用程序.test2" />
-        <item itemvalue="应用程序.test1" />
+        <item itemvalue="应用程序.FileTest1" />
+        <item itemvalue="应用程序.FileDemo1" />
+        <item itemvalue="应用程序.ExceptionDemo1" />
+        <item itemvalue="应用程序.YinYong3" />
+        <item itemvalue="应用程序.Yinyong2" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +224,15 @@
       <workItem from="1744714938956" duration="6482000" />
       <workItem from="1746537376911" duration="11727000" />
       <workItem from="1746580928866" duration="33819000" />
-      <workItem from="1747026940802" duration="16812000" />
+      <workItem from="1747026940802" duration="23378000" />
+      <workItem from="1748239973506" duration="46194000" />
+      <workItem from="1748480518402" duration="3507000" />
+      <workItem from="1748568023308" duration="77408000" />
+      <workItem from="1749433689426" duration="21041000" />
+      <workItem from="1749691618206" duration="976000" />
+      <workItem from="1749692637457" duration="59000" />
+      <workItem from="1749692757788" duration="10000" />
+      <workItem from="1749692793397" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="图片打乱顺序和居中">
       <option name="closed" value="true" />
@@ -211,7 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746609389454</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="代码提交">
+      <option name="closed" value="true" />
+      <created>1747128580091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747128580091</updated>
+    </task>
+    <task id="LOCAL-00004" summary="代码提交">
+      <option name="closed" value="true" />
+      <created>1747128611604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747128611604</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +287,8 @@
     <MESSAGE value="基本功能完成" />
     <MESSAGE value="图片打乱顺序和居中" />
     <MESSAGE value="完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善" />
+    <MESSAGE value="代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,7 +320,20 @@
           <line>55</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day10-code/src/com/itheima/mathtest/src/test5/Demo2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
